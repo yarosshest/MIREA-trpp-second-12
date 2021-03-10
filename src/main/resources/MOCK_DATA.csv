@@ -1,0 +1,1001 @@
+id,name,scientific_name,life_time
+1,"Lion, mountain",Felis concolor,37.4
+2,Brazilian otter,Pteronura brasiliensis,1.8
+3,"Gnu, brindled",Connochaetus taurinus,50.8
+4,"Toucan, white-throated",Ramphastos tucanus,32.5
+5,Jungle kangaroo,Macropus agilis,42.5
+6,South American sea lion,Otaria flavescens,37.8
+7,Silver-backed jackal,Canis mesomelas,13.1
+8,Greylag goose,Anser anser,22.0
+9,African bush squirrel,Paraxerus cepapi,3.8
+10,"Hawk-eagle, crowned",Spizaetus coronatus,58.2
+11,"Shrew, mandras tree",Anathana ellioti,32.4
+12,"Lemming, arctic",Dicrostonyx groenlandicus,36.2
+13,Andean goose,Chloephaga melanoptera,42.7
+14,Warthog,Phacochoerus aethiopus,34.2
+15,"Fox, savanna",Dusicyon thous,58.3
+16,African polecat,Ictonyx striatus,51.1
+17,Malleefowl,Leipoa ocellata,38.7
+18,Sage hen,Centrocercus urophasianus,63.4
+19,Western lowland gorilla,Gorilla gorilla,21.4
+20,"Phascogale, brush-tailed",Phascogale tapoatafa,2.3
+21,"Rattlesnake, eastern diamondback",Crotalus adamanteus,69.9
+22,Glossy starling (unidentified),Lamprotornis sp.,26.2
+23,Jaguarundi,Felis yagouaroundi,1.5
+24,Arctic lemming,Dicrostonyx groenlandicus,58.6
+25,Black kite,Milvus migrans,58.7
+26,"Cat, native",Dasyurus viverrinus,20.7
+27,Frog (unidentified),Rana sp.,0.1
+28,Black-throated cardinal,Paroaria gularis,42.3
+29,Short-beaked echidna,Tachyglossus aculeatus,65.6
+30,"Stork, white-necked",Ciconia episcopus,28.6
+31,"Flamingo, lesser",Phoeniconaias minor,20.4
+32,"Mongoose, banded",Mungos mungo,3.9
+33,Four-spotted skimmer,Libellula quadrimaculata,46.4
+34,African polecat,Ictonyx striatus,69.4
+35,Galapagos dove,Zenaida galapagoensis,10.5
+36,"Turtle, long-necked",Chelodina longicollis,49.7
+37,Black-throated cardinal,Paroaria gularis,45.7
+38,"Drongo, fork-tailed",Dicrurus adsimilis,61.2
+39,"Armadillo, common long-nosed",Dasypus novemcinctus,42.4
+40,American bison,Bison bison,4.4
+41,Black spider monkey,Ateles paniscus,31.0
+42,Snowy owl,Nyctea scandiaca,18.3
+43,"Possum, golden brush-tailed",Trichosurus vulpecula,63.9
+44,"Shrew, mandras tree",Anathana ellioti,59.8
+45,South American sea lion,Otaria flavescens,9.4
+46,"Boa, columbian rainbow",Epicrates cenchria maurus,2.7
+47,"Gazelle, thomson's",Gazella thompsonii,5.6
+48,Barasingha deer,Cervus duvauceli,15.1
+49,Puma,Felis concolor,9.3
+50,Dark-winged trumpeter,Psophia viridis,51.5
+51,"Cormorant, pied",Phalacrocorax varius,43.6
+52,Bontebok,Damaliscus dorcas,24.0
+53,"Heron, grey",Ardea cinerea,0.8
+54,Kinkajou,Potos flavus,4.5
+55,Eastern indigo snake,Drymarchon corias couperi,3.7
+56,"Lory, rainbow",Trichoglossus haematodus moluccanus,15.7
+57,"Seal, northern fur",Callorhinus ursinus,65.5
+58,Australian magpie,Gymnorhina tibicen,33.1
+59,Reindeer,Rangifer tarandus,32.5
+60,Yak,Bos mutus,69.6
+61,Silver-backed jackal,Canis mesomelas,44.7
+62,Black-crowned crane,Balearica pavonina,29.5
+63,Red-breasted nuthatch,Sitta canadensis,5.8
+64,Woolly-necked stork,Ciconia episcopus,49.9
+65,"Barbet, levaillant's",Trachyphonus vaillantii,7.7
+66,Short-beaked echidna,Tachyglossus aculeatus,16.7
+67,"Lizard, frilled",Chlamydosaurus kingii,16.1
+68,Springbok,Antidorcas marsupialis,48.6
+69,Guanaco,Lama guanicoe,49.4
+70,"Dove, white-winged",Zenaida asiatica,15.6
+71,Spotted-tailed quoll,Dasyurus maculatus,38.9
+72,Magnificent frigate bird,Fregata magnificans,44.5
+73,"Beaver, european",Castor fiber,6.5
+74,"Turtle, eastern box",Terrapene carolina,13.2
+75,Eagle owl (unidentified),Bubo sp.,25.9
+76,Golden-mantled ground squirrel,Spermophilus lateralis,11.7
+77,"Gecko, ring-tailed",Cyrtodactylus louisiadensis,4.3
+78,Butterfly (unidentified),unavailable,60.0
+79,Canada goose,Branta canadensis,4.0
+80,"Wallaby, river",Macropus agilis,68.9
+81,"Bushbaby, large-eared",Galago crassicaudataus,67.4
+82,"Stork, greater adjutant",Leptoptilus dubius,63.7
+83,Brown capuchin,Cebus apella,41.0
+84,Black-throated cardinal,Paroaria gularis,25.0
+85,"Gecko, ring-tailed",Cyrtodactylus louisiadensis,45.7
+86,Lizard (unidentified),unavailable,38.3
+87,"Lorikeet, scaly-breasted",Trichoglossus chlorolepidotus,33.1
+88,"Dolphin, common",Delphinus delphis,59.2
+89,African clawless otter,Aonyx capensis,8.4
+90,Black-winged stilt,Himantopus himantopus,17.3
+91,Sage hen,Centrocercus urophasianus,2.8
+92,Asian water buffalo,Bubalus arnee,40.4
+93,"Wallaby, river",Macropus agilis,11.8
+94,"Crow, pied",Corvus albus,28.4
+95,Eastern boa constrictor,Acrantophis madagascariensis,37.5
+96,"Gull, pacific",Gabianus pacificus,56.1
+97,"Squirrel, uinta ground",Spermophilus armatus,25.4
+98,Lilac-breasted roller,Coracias caudata,44.1
+99,"Waxbill, blue",Uraeginthus angolensis,62.1
+100,Turtle (unidentified),unavailable,10.9
+101,Vervet monkey,Cercopithecus aethiops,64.8
+102,Thirteen-lined squirrel,Spermophilus tridecemlineatus,58.9
+103,Crab-eating raccoon,Procyon cancrivorus,40.0
+104,Cereopsis goose,Cereopsis novaehollandiae,28.3
+105,Egyptian vulture,Neophron percnopterus,32.6
+106,Southern right whale,Eubalaena australis,63.2
+107,"Monkey, rhesus",Macaca mulatta,35.7
+108,"Porcupine, tree",Coendou prehensilis,39.8
+109,Hudsonian godwit,Limosa haemastica,47.2
+110,"Sparrow, rufous-collared",Zonotrichia capensis,49.4
+111,Four-spotted skimmer,Libellula quadrimaculata,62.0
+112,Southern hairy-nosed wombat,Lasiorhinus latifrons,39.7
+113,"Cobra, egyptian",Naja haje,40.5
+114,"Shark, blue",Prionace glauca,9.7
+115,"Gnu, brindled",Connochaetus taurinus,67.7
+116,Laughing kookaburra,Dacelo novaeguineae,16.2
+117,"Cormorant, little",Phalacrocorax niger,19.6
+118,Two-toed sloth,Choloepus hoffmani,16.8
+119,"Robin, white-throated",Irania gutteralis,63.0
+120,"Nuthatch, red-breasted",Sitta canadensis,33.5
+121,Pied kingfisher,Ceryle rudis,66.5
+122,Sandhill crane,Grus canadensis,25.5
+123,Asian lion,Panthera leo persica,64.0
+124,"Genet, small-spotted",Genetta genetta,19.2
+125,"Goldeneye, barrows",Bucephala clangula,13.4
+126,Cape cobra,Naja nivea,28.8
+127,"Jackal, asiatic",Canis aureus,23.1
+128,African bush squirrel,Paraxerus cepapi,42.2
+129,Snake (unidentified),unavailable,38.0
+130,"Langur, hanuman",Semnopithecus entellus,56.5
+131,Laughing dove,Streptopelia senegalensis,52.6
+132,"Bee-eater, nubian",Merops nubicus,18.0
+133,Desert kangaroo rat,Dipodomys deserti,10.4
+134,Cape wild cat,Felis libyca,43.2
+135,"Legaan, Monitor (unidentified)",Varanus sp.,66.2
+136,Two-toed sloth,Choloepus hoffmani,61.0
+137,"Cat, civet",Bassariscus astutus,16.4
+138,White-fronted capuchin,Cebus albifrons,20.1
+139,Slender-billed cockatoo,Cacatua tenuirostris,43.1
+140,Sea birds (unidentified),unavailable,51.5
+141,North American porcupine,Erethizon dorsatum,34.7
+142,"Flamingo, chilean",Phoenicopterus chilensis,1.9
+143,Frilled dragon,Chlamydosaurus kingii,11.5
+144,"Grouse, sage",Centrocercus urophasianus,45.1
+145,Lesser double-collared sunbird,Nectarinia chalybea,12.2
+146,"Goose, greylag",Anser anser,6.9
+147,Kinkajou,Potos flavus,43.9
+148,Feathertail glider,Acrobates pygmaeus,3.0
+149,Least chipmunk,Eutamias minimus,18.9
+150,Bontebok,Damaliscus dorcas,0.8
+151,"Cardinal, black-throated",Paroaria gularis,20.9
+152,Dabchick,Tachybaptus ruficollis,43.1
+153,Short-nosed bandicoot,Isoodon obesulus,30.3
+154,"Vulture, oriental white-backed",Gyps bengalensis,49.5
+155,Azara's zorro,Pseudalopex gymnocercus,54.9
+156,Chestnut weaver,Ploceus rubiginosus,3.7
+157,"Macaque, japanese",Macaca fuscata,33.7
+158,Yellow mongoose,Cynictis penicillata,13.8
+159,Crowned hawk-eagle,Spizaetus coronatus,24.2
+160,"Anteater, giant",Myrmecophaga tridactyla,14.0
+161,Agama lizard (unidentified),Agama sp.,20.3
+162,"Fowl, helmeted guinea",Numida meleagris,41.9
+163,"Sheathbill, snowy",Chionis alba,12.5
+164,Arctic fox,Alopex lagopus,58.9
+165,"Weaver, lesser masked",Ploceus intermedius,42.5
+166,Beisa oryx,Oryx gazella,67.9
+167,"Flycatcher, tyrant",Myiarchus tuberculifer,5.4
+168,Australian pelican,Pelecanus conspicillatus,12.3
+169,Boat-billed heron,Cochlearius cochlearius,62.4
+170,Amazon parrot (unidentified),Amazona sp.,38.9
+171,Wattled crane,Bugeranus caruncalatus,46.2
+172,Yak,Bos mutus,65.7
+173,Black-crowned crane,Balearica pavonina,46.4
+174,"Boa, cook's tree",Corallus hortulanus cooki,4.9
+175,Painted stork,Mycteria leucocephala,11.1
+176,"Barbet, crested",Trachyphonus vaillantii,54.1
+177,Bent-toed gecko,Cyrtodactylus louisiadensis,57.6
+178,"Goose, greylag",Anser anser,15.4
+179,Black rhinoceros,Diceros bicornis,12.1
+180,"Vulture, griffon",Gyps fulvus,11.7
+181,Common green iguana,Iguana iguana,54.2
+182,Tiger,Panthera tigris,51.2
+183,North American beaver,Castor canadensis,63.4
+184,European stork,Ciconia ciconia,26.6
+185,"Glider, feathertail",Acrobates pygmaeus,47.8
+186,"Plover, blacksmith",Vanellus armatus,53.7
+187,"Dove, galapagos",Zenaida galapagoensis,37.0
+188,Turkey vulture,Cathartes aura,63.4
+189,African darter,Anhinga rufa,58.4
+190,"Dragonfly, russian",Libellula quadrimaculata,68.2
+191,"Turtle, long-necked",Chelodina longicollis,22.4
+192,"Lemming, collared",Dicrostonyx groenlandicus,48.1
+193,Land iguana,Conolophus subcristatus,34.5
+194,"Stork, yellow-billed",Mycteria ibis,60.6
+195,"Rhinoceros, square-lipped",Ceratotherium simum,36.5
+196,Flightless cormorant,Nannopterum harrisi,45.0
+197,Common waterbuck,Kobus defassa,29.1
+198,"Cat, european wild",Felis silvestris lybica,40.3
+199,"Bushbaby, large-eared",Galago crassicaudataus,42.2
+200,"Bulbul, african red-eyed",Pycnonotus nigricans,11.0
+201,"Iguana, common green",Iguana iguana,65.2
+202,California sea lion,Zalophus californicus,69.8
+203,Red-tailed cockatoo,Calyptorhynchus magnificus,4.4
+204,Pied butcher bird,Cracticus nigroagularis,60.0
+205,Coqui partridge,Francolinus coqui,33.3
+206,Aardwolf,Proteles cristatus,12.0
+207,European red squirrel,Sciurus vulgaris,12.5
+208,Grey mouse lemur,Microcebus murinus,25.4
+209,"Loris, slender",Loris tardigratus,60.2
+210,Little brown bat,Myotis lucifugus,9.6
+211,"Bear, grizzly",Ursus arctos,69.4
+212,"Catfish, blue",Ictalurus furcatus,6.5
+213,Bohor reedbuck,Redunca redunca,42.9
+214,"Fox, silver-backed",Vulpes chama,8.2
+215,"Macaw, green-winged",Ara chloroptera,11.0
+216,Blue catfish,Ictalurus furcatus,4.6
+217,Azara's zorro,Pseudalopex gymnocercus,50.6
+218,"Macaque, bonnet",Macaca radiata,8.2
+219,Galapagos dove,Zenaida galapagoensis,10.4
+220,Grey phalarope,Phalaropus fulicarius,51.2
+221,"Quoll, eastern",Dasyurus viverrinus,50.3
+222,Prehensile-tailed porcupine,Coendou prehensilis,62.6
+223,"Sparrow, rufous-collared",Zonotrichia capensis,34.8
+224,"Polecat, african",Ictonyx striatus,14.5
+225,Frilled dragon,Chlamydosaurus kingii,23.9
+226,Yellow-brown sungazer,Cordylus giganteus,45.6
+227,White-browed sparrow weaver,Plocepasser mahali,29.2
+228,Tree porcupine,Coendou prehensilis,21.4
+229,"Legaan, Monitor (unidentified)",Varanus sp.,15.6
+230,Potoroo,Potorous tridactylus,58.6
+231,"Chipmunk, least",Eutamias minimus,34.2
+232,Komodo dragon,Varanus komodensis,29.2
+233,"Hartebeest, red",Alcelaphus buselaphus caama,12.6
+234,"Fox, cape",Vulpes chama,25.9
+235,"Raccoon, crab-eating",Procyon cancrivorus,3.4
+236,"Dolphin, common",Delphinus delphis,50.3
+237,"Francolin, coqui",Francolinus coqui,16.5
+238,"Deer, mule",Odocoileus hemionus,66.0
+239,Western spotted skunk,Spilogale gracilis,18.7
+240,Long-tailed jaeger,Stercorarius longicausus,13.1
+241,White-throated kingfisher,Halcyon smyrnesis,37.6
+242,"Magpie, black-backed",Gymnorhina tibicen,56.6
+243,Blue-tongued lizard,Tiliqua scincoides,59.8
+244,Brolga crane,Grus rubicundus,18.1
+245,"Baboon, yellow",Papio cynocephalus,53.7
+246,"Bird, pied butcher",Cracticus nigroagularis,35.4
+247,Roe deer,Capreolus capreolus,42.6
+248,Flying fox (unidentified),unavailable,19.4
+249,White-tailed jackrabbit,Lepus townsendii,3.5
+250,Campo flicker,Colaptes campestroides,36.7
+251,"Whale, killer",Orcinus orca,7.8
+252,Common mynah,Acridotheres tristis,63.6
+253,Common waterbuck,Kobus defassa,54.2
+254,Australian sea lion,Neophoca cinerea,11.2
+255,Weeper capuchin,Cebus nigrivittatus,47.7
+256,"Hartebeest, coke's",Alcelaphus buselaphus cokii,26.8
+257,"Gull, lava",Larus fuliginosus,42.6
+258,"Crane, brolga",Grus rubicundus,55.0
+259,Koala,Phascolarctos cinereus,27.2
+260,Long-tailed spotted cat,Felis wiedi or Leopardus weidi,49.1
+261,Cheetah,Acinynox jubatus,65.3
+262,"Cormorant, large",Phalacrocorax carbo,69.7
+263,"Colobus, magistrate black",Colobus guerza,57.7
+264,Black-necked stork,Ephippiorhynchus mycteria,55.8
+265,Weeper capuchin,Cebus nigrivittatus,67.6
+266,Black-backed jackal,Canis mesomelas,31.2
+267,"Viper, egyptian",Naja haje,48.6
+268,"Thrasher, curve-billed",Toxostoma curvirostre,6.5
+269,"Spoonbill, european",Platalea leucordia,26.2
+270,North American beaver,Castor canadensis,67.8
+271,African polecat,Ictonyx striatus,44.4
+272,"Crane, wattled",Bugeranus caruncalatus,4.5
+273,Water monitor,Varanus salvator,59.0
+274,Glossy starling (unidentified),Lamprotornis sp.,47.6
+275,"Bandicoot, long-nosed",Perameles nasuta,23.2
+276,"Skunk, striped",Mephitis mephitis,0.9
+277,"Zorro, azara's",Pseudalopex gymnocercus,60.0
+278,Moose,Alces alces,46.7
+279,"Porcupine, indian",Hystrix indica,52.1
+280,Black-collared barbet,Lybius torquatus,12.0
+281,Bahama pintail,Anas bahamensis,44.8
+282,Native cat,Dasyurus viverrinus,0.7
+283,"Ferret, black-footed",Mustela nigripes,8.3
+284,"Boa, mexican",Boa constrictor mexicana,13.2
+285,"Heron, gray",Ardea cinerea,42.1
+286,Hottentot teal,Anas punctata,41.8
+287,Little grebe,Tachybaptus ruficollis,15.9
+288,"Jackrabbit, white-tailed",Lepus townsendii,38.7
+289,Red-billed buffalo weaver,Bubalornis niger,23.0
+290,African lion,Panthera leo,66.3
+291,Greater sage grouse,Centrocercus urophasianus,1.6
+292,"Frogmouth, tawny",Podargus strigoides,65.0
+293,"Python, carpet",Morelia spilotes variegata,49.4
+294,"Goat, mountain",Oreamnos americanus,62.3
+295,African fish eagle,Haliaetus vocifer,40.9
+296,Javanese cormorant,Phalacrocorax niger,68.3
+297,Kongoni,Alcelaphus buselaphus cokii,2.9
+298,Vervet monkey,Cercopithecus aethiops,46.2
+299,"Possum, pygmy",Acrobates pygmaeus,29.2
+300,Reindeer,Rangifer tarandus,57.1
+301,Swallow (unidentified),unavailable,40.1
+302,Three-banded plover,Charadrius tricollaris,44.9
+303,Osprey,Pandon haliaetus,51.7
+304,Gerenuk,Litrocranius walleri,1.4
+305,Mourning collared dove,Streptopelia decipiens,52.9
+306,African wild cat,Felis silvestris lybica,16.4
+307,Indian star tortoise,Geochelone elegans,26.0
+308,African snake (unidentified),unavailable,3.0
+309,"Spider, wolf",Lycosa godeffroyi,1.3
+310,Least chipmunk,Eutamias minimus,40.1
+311,Eurasian beaver,Castor fiber,49.7
+312,Nubian bee-eater,Merops nubicus,25.4
+313,"Dog, african wild",Lycaon pictus,68.3
+314,Puma,Felis concolor,22.2
+315,"Quoll, spotted-tailed",Dasyurus maculatus,63.3
+316,"Goose, egyptian",Alopochen aegyptiacus,29.5
+317,"Cormorant, little",Phalacrocorax niger,46.7
+318,Bahama pintail,Anas bahamensis,56.1
+319,Great horned owl,Bubo virginianus,28.1
+320,Grey lourie,Lorythaixoides concolor,68.0
+321,"Plover, three-banded",Charadrius tricollaris,7.3
+322,"Bustard, denham's",Neotis denhami,40.1
+323,"Deer, swamp",Cervus duvauceli,50.3
+324,Malleefowl,Leipoa ocellata,43.6
+325,"Squirrel, antelope ground",Ammospermophilus nelsoni,56.1
+326,"Spoonbill, white",Platalea leucordia,57.4
+327,"Swan, black",Cygnus atratus,39.7
+328,"Deer, spotted",Axis axis,56.0
+329,"Dunnart, fat-tailed",Smithopsis crassicaudata,28.0
+330,Sun gazer,Cordylus giganteus,47.6
+331,"Wagtail, african pied",Motacilla aguimp,33.4
+332,"Monkey, vervet",Cercopithecus aethiops,68.4
+333,Butterfly (unidentified),unavailable,48.9
+334,Gerenuk,Litrocranius walleri,44.6
+335,Ring dove,Columba palumbus,50.6
+336,"Otter, canadian river",Lutra canadensis,65.8
+337,"Coatimundi, ring-tailed",Nasua nasua,10.3
+338,White-lipped peccary,Tayassu pecari,44.7
+339,Striped skunk,Mephitis mephitis,0.7
+340,"Bulbul, black-fronted",Pycnonotus nigricans,65.6
+341,Agouti,Dasyprocta leporina,14.1
+342,Lesser flamingo,Phoeniconaias minor,52.3
+343,American marten,Martes americana,51.8
+344,Toddy cat,Paradoxurus hermaphroditus,28.6
+345,"Langur, gray",Semnopithecus entellus,2.0
+346,"Turaco, violet-crested",Tauraco porphyrelophus,13.1
+347,Greater flamingo,Phoenicopterus ruber,50.6
+348,"Mockingbird, galapagos",Nesomimus trifasciatus,31.2
+349,"Skua, long-tailed",Stercorarius longicausus,40.3
+350,"Monkey, rhesus",Macaca mulatta,38.9
+351,Zorilla,Ictonyx striatus,49.5
+352,White-tailed jackrabbit,Lepus townsendii,19.8
+353,Western pygmy possum,Cercatetus concinnus,20.3
+354,Stick insect,Leprocaulinus vipera,32.3
+355,Spectacled caiman,Caiman crocodilus,59.1
+356,Indian leopard,Panthera pardus,57.8
+357,"Baboon, olive",Papio cynocephalus,59.7
+358,Brush-tailed bettong,Bettongia penicillata,10.4
+359,Horned rattlesnake,Crotalus cerastes,11.7
+360,Kinkajou,Potos flavus,44.5
+361,Common duiker,Sylvicapra grimma,10.4
+362,Ostrich,Struthio camelus,51.8
+363,Chestnut weaver,Ploceus rubiginosus,58.3
+364,Eastern cottontail rabbit,Sylvilagus floridanus,1.8
+365,"Stork, woolly-necked",Ciconia episcopus,48.6
+366,"Pelican, eastern white",Pelecans onocratalus,48.7
+367,Egyptian vulture,Neophron percnopterus,44.9
+368,Jungle kangaroo,Macropus agilis,19.6
+369,Pacific gull,Gabianus pacificus,43.4
+370,"Antelope, roan",Hippotragus equinus,6.5
+371,Swallow-tail gull,Creagrus furcatus,40.6
+372,"Marmot, yellow-bellied",Marmota flaviventris,68.0
+373,"Waxbill, blue",Uraeginthus angolensis,28.0
+374,"Heron, yellow-crowned night",Nyctanassa violacea,14.2
+375,Pale white-eye,Zosterops pallidus,48.6
+376,"Gull, kelp",Larus dominicanus,45.1
+377,"Admiral, indian red",Vanessa indica,19.3
+378,"Bear, black",Ursus americanus,17.1
+379,African wild cat,Felis silvestris lybica,12.2
+380,"Penguin, galapagos",Spheniscus mendiculus,30.5
+381,Black vulture,Aegypius tracheliotus,46.7
+382,Eurasian red squirrel,Sciurus vulgaris,69.8
+383,"Boubou, southern",Laniarius ferrugineus,10.4
+384,White-nosed coatimundi,Nasua narica,9.6
+385,American bighorn sheep,Ovis canadensis,29.7
+386,"Duck, white-faced whistling",Dendrocygna viduata,25.2
+387,Civet (unidentified),unavailable,35.9
+388,Lapwing (unidentified),Vanellus sp.,55.9
+389,Great white pelican,Pelecans onocratalus,46.0
+390,Azara's zorro,Pseudalopex gymnocercus,52.2
+391,"Mynah, indian",Acridotheres tristis,15.9
+392,"Racer, blue",Coluber constrictor foxii,69.8
+393,Giant otter,Pteronura brasiliensis,52.6
+394,Bald eagle,Haliaeetus leucocephalus,47.1
+395,Kirk's dik dik,Madoqua kirkii,3.1
+396,"Camel, dromedary",Camelus dromedarius,15.9
+397,"Lizard, frilled",Chlamydosaurus kingii,15.5
+398,"Rattlesnake, dusky",Crotalus triseriatus,18.3
+399,"Goose, cape barren",Cereopsis novaehollandiae,61.9
+400,American crow,Corvus brachyrhynchos,1.4
+401,Blue duck,Hymenolaimus malacorhynchus,4.1
+402,"Zebra, plains",Equus burchelli,65.4
+403,Black bear,Ursus americanus,23.6
+404,Dromedary camel,Camelus dromedarius,8.1
+405,"Hen, sage",Centrocercus urophasianus,63.2
+406,"Turkey, australian brush",Alectura lathami,62.4
+407,"Turkey, wild",Meleagris gallopavo,47.5
+408,Moose,Alces alces,31.3
+409,Small Indian mongoose,Herpestes javanicus,9.2
+410,"Cockatoo, roseate",Eolophus roseicapillus,66.0
+411,Common green iguana,Iguana iguana,1.1
+412,"Colobus, white-mantled",Colobus guerza,57.9
+413,"Goat, mountain",Oreamnos americanus,17.9
+414,"Deer, spotted",Axis axis,22.2
+415,Egyptian goose,Alopochen aegyptiacus,34.8
+416,"Monkey, red howler",Alouatta seniculus,24.0
+417,Mule deer,Odocoileus hemionus,7.9
+418,"Genet, common",Genetta genetta,26.0
+419,Sally lightfoot crab,Graspus graspus,1.0
+420,Chimpanzee,Pan troglodytes,17.6
+421,"Vulture, white-headed",Aegypius occipitalis,24.0
+422,"Elephant, asian",Elephas maximus bengalensis,49.8
+423,Miner's cat,Bassariscus astutus,16.2
+424,Leadbeateri's ground hornbill,Bucorvus leadbeateri,16.3
+425,"Dove, emerald-spotted wood",Turtur chalcospilos,48.1
+426,"Booby, blue-footed",Sula nebouxii,48.7
+427,Sarus crane,Grus antigone,39.8
+428,Roseate cockatoo,Eolophus roseicapillus,17.3
+429,Leopard,Panthera pardus,56.0
+430,"Dik, kirk's dik",Madoqua kirkii,30.8
+431,"Boa, cook's tree",Corallus hortulanus cooki,51.6
+432,"Hawk, red-tailed",Buteo jamaicensis,9.9
+433,Indian peacock,Pavo cristatus,57.6
+434,"Wallaby, agile",Macropus agilis,16.1
+435,"Grebe, little",Tachybaptus ruficollis,5.6
+436,Common grenadier,Uraeginthus granatina,37.0
+437,Sally lightfoot crab,Graspus graspus,58.1
+438,"Bleu, red-cheeked cordon",Uraeginthus bengalus,65.8
+439,"Boa, cook's tree",Corallus hortulanus cooki,53.0
+440,"Deer, roe",Capreolus capreolus,67.5
+441,"Buffalo, wild water",Bubalus arnee,25.7
+442,"Vulture, white-headed",Aegypius occipitalis,59.0
+443,"Cat, native",Dasyurus viverrinus,42.6
+444,Western spotted skunk,Spilogale gracilis,26.3
+445,"Hen, sage",Centrocercus urophasianus,59.6
+446,Red kangaroo,Macropus rufus,32.9
+447,"Pelican, brown",Pelecanus occidentalis,8.6
+448,"Woodcock, american",Scolopax minor,56.5
+449,Sally lightfoot crab,Graspus graspus,33.4
+450,"Screamer, southern",Chauna torquata,54.3
+451,"Phalarope, red-necked",Phalaropus lobatus,55.7
+452,Common green iguana,Iguana iguana,7.5
+453,"Colobus, black and white",Colobus guerza,58.8
+454,"Dolphin, bottle-nose",Tursiops truncatus,18.6
+455,Red-headed woodpecker,Melanerpes erythrocephalus,61.9
+456,Puma,Felis concolor,36.4
+457,Snow goose,Anser caerulescens,37.3
+458,Water moccasin,Agkistrodon piscivorus,57.8
+459,Red-legged pademelon,Thylogale stigmatica,69.0
+460,"Sheathbill, snowy",Chionis alba,20.1
+461,Horned puffin,Fratercula corniculata,46.4
+462,"Rhea, gray",Rhea americana,61.9
+463,Red sheep,Ovis ammon,40.7
+464,Mouflon,Ovis musimon,26.1
+465,"Beaver, eurasian",Castor fiber,40.6
+466,Asiatic jackal,Canis aureus,13.7
+467,Scottish highland cow,Bos taurus,56.0
+468,Tarantula,Lasiodora parahybana,16.7
+469,"Bustard, denham's",Neotis denhami,20.3
+470,Andean goose,Chloephaga melanoptera,11.5
+471,Weeper capuchin,Cebus nigrivittatus,23.1
+472,Eastern grey kangaroo,Macropus giganteus,4.2
+473,"Siskin, pine",Carduelis pinus,55.9
+474,Bengal vulture,Gyps bengalensis,67.2
+475,American beaver,Castor canadensis,26.9
+476,"Dragon, ornate rock",Ctenophorus ornatus,13.7
+477,Vine snake (unidentified),Oxybelis sp.,60.9
+478,Southern hairy-nosed wombat,Lasiorhinus latifrons,10.3
+479,Cape clawless otter,Aonyx capensis,5.2
+480,European shelduck,Tadorna tadorna,4.1
+481,Burchell's gonolek,Laniaurius atrococcineus,1.3
+482,Ring-necked pheasant,Phasianus colchicus,59.7
+483,"Cobra, cape",Naja nivea,37.2
+484,"Elephant, african",Loxodonta africana,25.0
+485,Giant heron,Ardea golieth,67.3
+486,"Flycatcher, tyrant",Myiarchus tuberculifer,35.0
+487,Tyrant flycatcher,Myiarchus tuberculifer,67.4
+488,Stanley bustard,Neotis denhami,65.6
+489,Grey lourie,Lorythaixoides concolor,3.2
+490,"Lemur, ring-tailed",Lemur catta,4.5
+491,"Eagle, white-bellied sea",Haliaetus leucogaster,10.7
+492,"Vulture, white-rumped",Gyps bengalensis,60.9
+493,"White-eye, pale",Zosterops pallidus,65.1
+494,Northern phalarope,Phalaropus lobatus,26.8
+495,Gray duiker,Sylvicapra grimma,47.3
+496,"Bear, black",Ursus americanus,59.1
+497,"Puffin, horned",Fratercula corniculata,0.9
+498,"Stork, saddle-billed",Ephipplorhynchus senegalensis,5.3
+499,Red-billed hornbill,Tockus erythrorhyncus,4.8
+500,Cattle egret,Bubulcus ibis,0.8
+501,"Penguin, galapagos",Spheniscus mendiculus,12.3
+502,"Woodcock, american",Scolopax minor,37.6
+503,"Cat, long-tailed spotted",Felis wiedi or Leopardus weidi,13.1
+504,Common seal,Phoca vitulina,49.6
+505,African ground squirrel (unidentified),Xerus sp.,25.0
+506,Greater roadrunner,Geococcyx californianus,16.1
+507,"Crab, sally lightfoot",Graspus graspus,3.1
+508,"Pie, rufous tree",Dendrocitta vagabunda,31.3
+509,Currasow (unidentified),Crax sp.,22.5
+510,"Armadillo, nine-banded",Dasypus novemcinctus,13.9
+511,Potoroo,Potorous tridactylus,65.9
+512,"Gnu, brindled",Connochaetus taurinus,8.7
+513,"Pie, indian tree",Dendrocitta vagabunda,36.3
+514,Pale-throated three-toed sloth,Bradypus tridactylus,62.0
+515,"Gecko, barking",Phylurus milli,65.0
+516,Tayra,Eira barbata,46.6
+517,Honey badger,Mellivora capensis,53.5
+518,Blue wildebeest,Connochaetus taurinus,65.9
+519,Little blue penguin,Eudyptula minor,12.5
+520,Green-winged macaw,Ara chloroptera,50.0
+521,Kalahari scrub robin,Certotrichas paena,11.2
+522,"Buffalo, wild water",Bubalus arnee,69.2
+523,Dark-winged trumpeter,Psophia viridis,12.0
+524,Asian water dragon,Physignathus cocincinus,2.2
+525,"Phalarope, grey",Phalaropus fulicarius,47.0
+526,Great kiskadee,Pitangus sulphuratus,37.2
+527,"Cat, native",Dasyurus viverrinus,12.4
+528,"Robin, kalahari scrub",Certotrichas paena,53.0
+529,Tayra,Eira barbata,10.8
+530,Galapagos dove,Zenaida galapagoensis,55.4
+531,"Shrew, mandras tree",Anathana ellioti,17.4
+532,"Snake, tiger",Notechis semmiannulatus,20.6
+533,African polecat,Ictonyx striatus,68.6
+534,"Sheep, stone",Ovis dalli stonei,55.6
+535,Common zorro,Dusicyon thous,54.7
+536,"Possum, golden brush-tailed",Trichosurus vulpecula,40.3
+537,Sockeye salmon,Oncorhynchus nerka,63.4
+538,Scottish highland cow,Bos taurus,34.9
+539,"Turaco, violet-crested",Tauraco porphyrelophus,38.1
+540,"Kangaroo, western grey",Macropus fuliginosus,6.6
+541,Western lowland gorilla,Gorilla gorilla,68.3
+542,"Roller, lilac-breasted",Coracias caudata,19.1
+543,"Bunting, crested",Melophus lathami,16.1
+544,Blue duck,Hymenolaimus malacorhynchus,31.6
+545,"Bird, pied butcher",Cracticus nigroagularis,49.7
+546,Gray duiker,Sylvicapra grimma,40.9
+547,Eastern quoll,Dasyurus viverrinus,60.6
+548,Tiger cat,Dasyurus maculatus,55.0
+549,Little brown dove,Streptopelia senegalensis,54.8
+550,House crow,Corvus brachyrhynchos,34.4
+551,Ring-tailed gecko,Cyrtodactylus louisiadensis,38.7
+552,"Whale, baleen",Eubalaena australis,9.6
+553,"Vulture, black",Aegypius tracheliotus,17.9
+554,"Jackrabbit, white-tailed",Lepus townsendii,25.7
+555,Mexican wolf,Canis lupus baileyi,41.9
+556,Common wolf,Canis lupus,8.6
+557,Long-necked turtle,Chelodina longicollis,15.9
+558,Goliath heron,Ardea golieth,25.7
+559,Meerkat,Suricata suricatta,43.0
+560,"Stork, jabiru",Ephippiorhynchus mycteria,26.5
+561,"Tortoise, galapagos",Geochelone elephantopus,45.9
+562,Gambel's quail,Callipepla gambelii,26.7
+563,Horned lark,Eremophila alpestris,7.8
+564,Worm snake (unidentified),Carphophis sp.,58.2
+565,Dusky gull,Larus fuliginosus,62.6
+566,Rock dove,Columba livia,7.2
+567,Springhare,Pedetes capensis,8.1
+568,"Pelican, eastern white",Pelecans onocratalus,43.9
+569,"Swan, trumpeter",Cygnus buccinator,10.6
+570,Pallas's fish eagle,Haliaeetus leucoryphus,58.1
+571,Sacred ibis,Threskionis aethiopicus,57.4
+572,"Dragon, frilled",Chlamydosaurus kingii,35.3
+573,"Parakeet, rose-ringed",Psittacula krameri,39.7
+574,"Quail, gambel's",Callipepla gambelii,65.8
+575,"Peccary, white-lipped",Tayassu pecari,64.8
+576,Long-tailed skua,Stercorarius longicausus,4.7
+577,Black-crowned crane,Balearica pavonina,13.2
+578,Yellow-throated sandgrouse,Pterocles gutturalis,62.9
+579,Crab-eating raccoon,Procyon cancrivorus,55.6
+580,"Sheathbill, snowy",Chionis alba,32.8
+581,Gila monster,Heloderma horridum,21.9
+582,Red-tailed phascogale,Phascogale calura,43.5
+583,"Sloth, two-toed tree",Choloepus hoffmani,31.1
+584,Least chipmunk,Eutamias minimus,41.2
+585,"Kangaroo, black-faced",Macropus fuliginosus,1.5
+586,"Heron, grey",Ardea cinerea,37.0
+587,"Rhea, gray",Rhea americana,9.1
+588,Cape Barren goose,Cereopsis novaehollandiae,67.4
+589,"Wagtail, african pied",Motacilla aguimp,34.5
+590,Numbat,Myrmecobius fasciatus,69.9
+591,"Wambenger, red-tailed",Phascogale calura,35.5
+592,"Hornbill, yellow-billed",Tockus flavirostris,56.3
+593,Purple moorhen,Porphyrio porphyrio,20.9
+594,White-rumped vulture,Gyps bengalensis,46.5
+595,"Fox, crab-eating",Dusicyon thous,21.4
+596,North American red fox,Vulpes vulpes,31.7
+597,Nile crocodile,Crocodylus niloticus,49.3
+598,Puna ibis,Plegadis ridgwayi,14.5
+599,Sloth bear,Melursus ursinus,45.0
+600,Mara,Dolichitus patagonum,1.6
+601,"Cat, miner's",Bassariscus astutus,23.9
+602,Sage grouse,Centrocercus urophasianus,12.3
+603,Blue-tongued skink,Tiliqua scincoides,32.0
+604,"Bustard, stanley",Neotis denhami,7.1
+605,White-necked stork,Ciconia episcopus,37.5
+606,"Rat, white-faced tree",Echimys chrysurus,69.3
+607,"Mouse, four-striped grass",Rhabdomys pumilio,59.4
+608,"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,1.6
+609,Pacific gull,Gabianus pacificus,47.8
+610,Rufous tree pie,Dendrocitta vagabunda,18.9
+611,"Heron, boat-billed",Cochlearius cochlearius,48.2
+612,Yellow-necked spurfowl,Francolinus leucoscepus,56.3
+613,White-cheeked pintail,Anas bahamensis,55.7
+614,Azara's zorro,Pseudalopex gymnocercus,45.4
+615,Agouti,Dasyprocta leporina,36.0
+616,"Dragon, western bearded",Amphibolurus barbatus,41.8
+617,"Baboon, yellow",Papio cynocephalus,43.6
+618,"Jackal, asiatic",Canis aureus,3.4
+619,"Bat, madagascar fruit",Pteropus rufus,25.4
+620,Grey lourie,Lorythaixoides concolor,67.1
+621,"Admiral, indian red",Vanessa indica,0.5
+622,Anaconda (unidentified),Eunectes sp.,59.6
+623,Sable antelope,Hippotragus niger,8.1
+624,"Otter, brazilian",Pteronura brasiliensis,12.2
+625,"Tinamou, elegant crested",Eudromia elegans,41.9
+626,"Hen, sage",Centrocercus urophasianus,60.9
+627,Black-throated cardinal,Paroaria gularis,26.2
+628,Turkey vulture,Cathartes aura,10.2
+629,"Egret, snowy",Egretta thula,39.9
+630,"Badger, eurasian",Meles meles,16.4
+631,Nile crocodile,Crocodylus niloticus,45.6
+632,"Porcupine, tree",Coendou prehensilis,63.1
+633,Asiatic wild ass,Equus hemionus,48.4
+634,Vicuna,Vicugna vicugna,34.2
+635,River wallaby,Macropus agilis,14.2
+636,Rufous tree pie,Dendrocitta vagabunda,19.7
+637,"Snake, buttermilk",Coluber constrictor,62.2
+638,"Otter, brazilian",Pteronura brasiliensis,13.5
+639,Ringtail,Bassariscus astutus,9.6
+640,Wolf spider,Lycosa godeffroyi,62.6
+641,"Bear, american black",Ursus americanus,65.0
+642,"Crow, american",Corvus brachyrhynchos,11.9
+643,"Goose, andean",Chloephaga melanoptera,23.5
+644,Cape raven,Corvus albicollis,16.1
+645,"Vulture, king",Sarcorhamphus papa,60.7
+646,Suricate,Suricata suricatta,44.7
+647,"Deer, black-tailed",Odocoileus hemionus,33.9
+648,Slender-billed cockatoo,Cacatua tenuirostris,46.5
+649,Greater roadrunner,Geococcyx californianus,28.3
+650,"Hyena, striped",Hyaena hyaena,57.3
+651,Royal tern,Thalasseus maximus,30.7
+652,"Goose, andean",Chloephaga melanoptera,16.6
+653,Snowy owl,Nyctea scandiaca,2.1
+654,"Bear, black",Ursus americanus,0.3
+655,"Bandicoot, southern brown",Isoodon obesulus,36.3
+656,"Dik, kirk's dik",Madoqua kirkii,56.0
+657,"Gonolek, burchell's",Laniaurius atrococcineus,12.4
+658,Helmeted guinea fowl,Numida meleagris,20.4
+659,Blue-breasted cordon bleu,Uraeginthus angolensis,28.1
+660,"Creeper, black-tailed tree",Climacteris melanura,1.2
+661,North American river otter,Lutra canadensis,6.9
+662,Masked booby,Sula dactylatra,27.5
+663,"Eagle, golden",Aquila chrysaetos,20.3
+664,Ovenbird,Seiurus aurocapillus,35.6
+665,"Monster, gila",Heloderma horridum,66.4
+666,"Squirrel, arctic ground",Spermophilus parryii,26.3
+667,"Sheep, american bighorn",Ovis canadensis,32.1
+668,"Barbet, crested",Trachyphonus vaillantii,42.6
+669,"Heron, green-backed",Butorides striatus,44.2
+670,Dama wallaby,Macropus eugenii,26.1
+671,Radiated tortoise,Geochelone radiata,29.0
+672,"Capuchin, weeper",Cebus nigrivittatus,62.5
+673,White-throated kingfisher,Halcyon smyrnesis,68.3
+674,"Gull, lava",Larus fuliginosus,58.8
+675,Egyptian goose,Alopochen aegyptiacus,47.4
+676,Eastern indigo snake,Drymarchon corias couperi,54.0
+677,Yak,Bos mutus,13.7
+678,"Jacana, african",Actophilornis africanus,19.4
+679,White-faced tree rat,Echimys chrysurus,47.7
+680,"Tortoise, radiated",Geochelone radiata,67.5
+681,"Pelican, eastern white",Pelecans onocratalus,18.0
+682,"Seal, southern elephant",Mirounga leonina,32.5
+683,Tiger,Panthera tigris,1.9
+684,Tsessebe,Damaliscus lunatus,3.7
+685,White-browed owl,Ninox superciliaris,40.2
+686,"Monkey, rhesus",Macaca mulatta,47.3
+687,Chilean flamingo,Phoenicopterus chilensis,6.3
+688,"Owl, great horned",Bubo virginianus,11.3
+689,Dabchick,Tachybaptus ruficollis,63.0
+690,"Bird, bare-faced go away",Lorythaixoides concolor,45.9
+691,"Pintail, white-cheeked",Anas bahamensis,36.2
+692,Stick insect,Leprocaulinus vipera,6.1
+693,"Wildebeest, blue",Connochaetus taurinus,26.6
+694,"Macaw, red and blue",Ara chloroptera,48.0
+695,Warthog,Phacochoerus aethiopus,21.7
+696,"Egret, great",Casmerodius albus,15.1
+697,"Cormorant, great",Phalacrocorax carbo,6.0
+698,Roseat flamingo,Phoenicopterus ruber,37.7
+699,Gray langur,Semnopithecus entellus,39.5
+700,Tarantula,Lasiodora parahybana,25.5
+701,"Beaver, european",Castor fiber,58.2
+702,Mallard,Anas platyrhynchos,34.1
+703,"Barbet, levaillant's",Trachyphonus vaillantii,36.4
+704,"Barbet, black-collared",Lybius torquatus,48.0
+705,African red-eyed bulbul,Pycnonotus nigricans,33.0
+706,Bottle-nose dolphin,Tursiops truncatus,69.0
+707,"Squirrel, smith's bush",Paraxerus cepapi,42.8
+708,"Squirrel, eurasian red",Sciurus vulgaris,55.6
+709,"Coot, red-knobbed",Fulica cristata,29.0
+710,"Shrew, mandras tree",Anathana ellioti,59.4
+711,Onager,Equus hemionus,26.2
+712,Tiger,Panthera tigris,63.3
+713,Southern black-backed gull,Larus dominicanus,22.4
+714,"Eland, common",Taurotagus oryx,39.7
+715,Brown antechinus,Antechinus flavipes,59.9
+716,Blue waxbill,Uraeginthus angolensis,15.0
+717,"Otter, canadian river",Lutra canadensis,61.2
+718,"Jackal, black-backed",Canis mesomelas,53.0
+719,Desert tortoise,Gopherus agassizii,50.3
+720,Stick insect,Leprocaulinus vipera,16.7
+721,"Gecko, barking",Phylurus milli,34.7
+722,Rhesus macaque,Macaca mulatta,42.0
+723,Woodchuck,Marmota monax,22.2
+724,Ring-tailed lemur,Lemur catta,53.7
+725,"Glider, sugar",Petaurus breviceps,38.5
+726,"Lion, south american sea",Otaria flavescens,51.6
+727,Puma,Felis concolor,7.8
+728,Great skua,Catharacta skua,7.2
+729,"Penguin, magellanic",Spheniscus magellanicus,54.8
+730,"Falcon, prairie",Falco mexicanus,30.1
+731,Leadbeateri's ground hornbill,Bucorvus leadbeateri,41.5
+732,"Civet, common palm",Paradoxurus hermaphroditus,17.4
+733,"Shelduck, common",Tadorna tadorna,23.9
+734,"Fox, crab-eating",Dusicyon thous,32.0
+735,"Mongoose, small indian",Herpestes javanicus,22.8
+736,"Dog, black-tailed prairie",Cynomys ludovicianus,30.3
+737,Savannah deer (unidentified),unavailable,59.9
+738,Crab (unidentified),unavailable,21.4
+739,Gulls (unidentified),Larus sp.,37.4
+740,"Shrike, common boubou",Laniarius ferrugineus,50.6
+741,Nilgai,Boselaphus tragocamelus,42.8
+742,"Kangaroo, black-faced",Macropus fuliginosus,2.2
+743,Bird (unidentified),unavailable,60.5
+744,Land iguana,Conolophus subcristatus,27.2
+745,"Shelduck, european",Tadorna tadorna,44.8
+746,Common zebra,Equus burchelli,57.1
+747,"Cat, civet",Bassariscus astutus,18.2
+748,"Butterfly, tropical buckeye",Junonia genoveua,52.0
+749,Ostrich,Struthio camelus,30.0
+750,"Polecat, african",Ictonyx striatus,22.9
+751,"Echidna, short-beaked",Tachyglossus aculeatus,15.2
+752,Black-crowned night heron,Nycticorax nycticorax,4.0
+753,Long-crested hawk eagle,Lophoaetus occipitalis,18.7
+754,Pied cormorant,Phalacrocorax varius,34.1
+755,"Pelican, eastern white",Pelecans onocratalus,62.6
+756,Mara,Dolichitus patagonum,58.7
+757,African bush squirrel,Paraxerus cepapi,57.1
+758,Margay,Felis wiedi or Leopardus weidi,37.8
+759,"Wambenger, red-tailed",Phascogale calura,8.3
+760,Jaguarundi,Felis yagouaroundi,6.2
+761,"Rat, white-faced tree",Echimys chrysurus,14.5
+762,Steller sea lion,Eumetopias jubatus,53.0
+763,Potoroo,Potorous tridactylus,54.9
+764,White stork,Ciconia ciconia,41.1
+765,Rose-ringed parakeet,Psittacula krameri,68.9
+766,California sea lion,Zalophus californicus,45.3
+767,Western bearded dragon,Amphibolurus barbatus,65.3
+768,Purple moorhen,Porphyrio porphyrio,39.7
+769,Coke's hartebeest,Alcelaphus buselaphus cokii,5.3
+770,"Goose, andean",Chloephaga melanoptera,35.7
+771,"Lemur, sportive",Lepilemur rufescens,43.0
+772,"Roadrunner, greater",Geococcyx californianus,27.6
+773,Brazilian tapir,Tapirus terrestris,14.4
+774,Least chipmunk,Eutamias minimus,18.7
+775,American beaver,Castor canadensis,52.0
+776,Western bearded dragon,Amphibolurus barbatus,29.5
+777,Tiger,Panthera tigris,35.4
+778,American crow,Corvus brachyrhynchos,55.6
+779,Hippopotamus,Hippopotamus amphibius,15.6
+780,"Goose, knob-nosed",Sarkidornis melanotos,68.9
+781,Ocelot,Felis pardalis,19.3
+782,"Turtle, snake-necked",Chelodina longicollis,6.7
+783,Bush dog,Speothos vanaticus,4.1
+784,Red kangaroo,Macropus rufus,69.3
+785,Bateleur eagle,Terathopius ecaudatus,25.8
+786,"Zebra, plains",Equus burchelli,0.9
+787,Greater roadrunner,Geococcyx californianus,37.3
+788,Spectacled caiman,Caiman crocodilus,27.2
+789,"Falcon, peregrine",Falco peregrinus,15.9
+790,Zorilla,Ictonyx striatus,55.0
+791,Green-backed heron,Butorides striatus,52.1
+792,"Puma, south american",Felis concolor,30.4
+793,Asiatic jackal,Canis aureus,33.6
+794,"Mongoose, javan gold-spotted",Herpestes javanicus,11.2
+795,Common rhea,Rhea americana,37.5
+796,Water monitor,Varanus salvator,7.8
+797,Radiated tortoise,Geochelone radiata,61.7
+798,Leadbeateri's ground hornbill,Bucorvus leadbeateri,69.5
+799,Desert kangaroo rat,Dipodomys deserti,62.7
+800,"Hornbill, yellow-billed",Tockus flavirostris,65.3
+801,"Heron, green-backed",Butorides striatus,52.5
+802,European badger,Meles meles,21.8
+803,"Pelican, brown",Pelecanus occidentalis,28.7
+804,Herring gull,unavailable,21.6
+805,"Capuchin, brown",Cebus apella,35.6
+806,"Deer, savannah",Mazama gouazoubira,19.0
+807,"Cockatoo, sulfur-crested",Cacatua galerita,24.0
+808,White-faced tree rat,Echimys chrysurus,7.0
+809,"Egret, cattle",Bubulcus ibis,27.4
+810,Green-winged macaw,Ara chloroptera,15.9
+811,"Hoopoe, eurasian",Upupa epops,32.6
+812,"Wapiti, elk,",Cervus canadensis,46.4
+813,Blesbok,Damaliscus dorcas,47.3
+814,Musk ox,Ovibos moschatus,40.7
+815,Galapagos hawk,Buteo galapagoensis,48.2
+816,"Wolf, timber",Canis lupus lycaon,64.4
+817,"Egret, great",Casmerodius albus,50.5
+818,"Buffalo, american",Bison bison,64.7
+819,"Tern, arctic",Sterna paradisaea,14.4
+820,Australian magpie,Gymnorhina tibicen,68.0
+821,"Dove, little brown",Streptopelia senegalensis,9.0
+822,"Rhea, gray",Rhea americana,22.0
+823,Silver-backed jackal,Canis mesomelas,36.5
+824,"Skua, great",Catharacta skua,41.5
+825,Madagascar hawk owl,Ninox superciliaris,14.8
+826,"Rattlesnake, dusky",Crotalus triseriatus,2.6
+827,Dromedary camel,Camelus dromedarius,66.4
+828,Crested bunting,Melophus lathami,60.8
+829,"Deer, red",Cervus elaphus,67.2
+830,"Woodpecker, red-headed",Melanerpes erythrocephalus,0.4
+831,Common mynah,Acridotheres tristis,1.8
+832,Ornate rock dragon,Ctenophorus ornatus,62.6
+833,African jacana,Actophilornis africanus,42.2
+834,"Pheasant, common",Phasianus colchicus,2.8
+835,"Rattlesnake, dusky",Crotalus triseriatus,69.6
+836,African lion,Panthera leo,12.4
+837,Fat-tailed dunnart,Smithopsis crassicaudata,33.5
+838,Australian pelican,Pelecanus conspicillatus,49.2
+839,"Glider, squirrel",Petaurus norfolcensis,0.9
+840,"Barbet, crested",Trachyphonus vaillantii,7.7
+841,"Eagle, golden",Aquila chrysaetos,10.7
+842,Puma,Felis concolor,7.4
+843,"Booby, blue-footed",Sula nebouxii,44.1
+844,Paca,Agouti paca,59.2
+845,"Bat, asian false vampire",Megaderma spasma,59.3
+846,Grey lourie,Lorythaixoides concolor,1.6
+847,Madagascar fruit bat,Pteropus rufus,67.3
+848,Long-tailed skua,Stercorarius longicausus,30.2
+849,"Sifaka, verreaux's",Propithecus verreauxi,22.2
+850,"Sloth, hoffman's",Choloepus hoffmani,32.3
+851,Kori bustard,Choriotis kori,39.6
+852,"Darter, african",Anhinga rufa,51.6
+853,Eastern cottontail rabbit,Sylvilagus floridanus,37.6
+854,Roseate cockatoo,Eolophus roseicapillus,17.2
+855,"Baboon, yellow",Papio cynocephalus,7.1
+856,"Lizard, blue-tongued",Tiliqua scincoides,40.2
+857,"Deer, mule",Odocoileus hemionus,1.7
+858,Egyptian viper,Naja haje,62.7
+859,Rhesus monkey,Macaca mulatta,67.5
+860,Monitor lizard (unidentified),Varanus sp.,57.0
+861,"Eagle, tawny",Anitibyx armatus,69.6
+862,"Falcon, peregrine",Falco peregrinus,20.3
+863,"Deer, roe",Capreolus capreolus,29.1
+864,"Glider, sugar",Petaurus breviceps,6.6
+865,Common wombat,Vombatus ursinus,51.0
+866,"Hornbill, yellow-billed",Tockus flavirostris,26.8
+867,Red-billed hornbill,Tockus erythrorhyncus,69.2
+868,"White-eye, pale",Zosterops pallidus,30.3
+869,Killer whale,Orcinus orca,8.2
+870,Kori bustard,Choriotis kori,58.2
+871,Eurasian beaver,Castor fiber,54.1
+872,Malleefowl,Leipoa ocellata,4.5
+873,Red-winged blackbird,Agelaius phoeniceus,39.7
+874,Silver-backed fox,Vulpes chama,61.3
+875,"Coot, red-knobbed",Fulica cristata,10.0
+876,"Cat, toddy",Paradoxurus hermaphroditus,68.9
+877,Red meerkat,Cynictis penicillata,69.6
+878,Western patch-nosed snake,Salvadora hexalepis,34.6
+879,Blue and gold macaw,Ara ararauna,14.4
+880,"Eagle, white-bellied sea",Haliaetus leucogaster,38.2
+881,Common waterbuck,Kobus defassa,45.4
+882,Horned puffin,Fratercula corniculata,46.2
+883,"Goose, andean",Chloephaga melanoptera,44.7
+884,Giraffe,Giraffe camelopardalis,42.9
+885,"Pintail, bahama",Anas bahamensis,14.6
+886,"Gecko, tokay",Gekko gecko,46.4
+887,"Crab, sally lightfoot",Graspus graspus,68.3
+888,Bennett's wallaby,Macropus rufogriseus,15.9
+889,Barasingha deer,Cervus duvauceli,50.2
+890,Sacred ibis,Threskionis aethiopicus,44.3
+891,"Moorhen, purple",Porphyrio porphyrio,27.7
+892,"Rattlesnake, eastern diamondback",Crotalus adamanteus,61.4
+893,"Moorhen, purple",Porphyrio porphyrio,15.2
+894,"Dunnart, fat-tailed",Smithopsis crassicaudata,29.4
+895,"Legaan, water",Varanus salvator,35.9
+896,"Wallaby, whip-tailed",Macropus parryi,21.9
+897,Indian mynah,Acridotheres tristis,6.3
+898,"Pie, indian tree",Dendrocitta vagabunda,13.1
+899,Kaffir cat,Felis silvestris lybica,25.0
+900,Agile wallaby,Macropus agilis,48.8
+901,"Grouse, sage",Centrocercus urophasianus,2.9
+902,"Stork, marabou",Leptoptilos crumeniferus,15.5
+903,Red-breasted nuthatch,Sitta canadensis,14.8
+904,Blue-faced booby,Sula dactylatra,46.5
+905,Pale white-eye,Zosterops pallidus,43.9
+906,"Gull, kelp",Larus dominicanus,13.9
+907,"Eagle, bald",Haliaeetus leucocephalus,45.0
+908,Madagascar hawk owl,Ninox superciliaris,12.1
+909,"Kangaroo, eastern grey",Macropus giganteus,47.8
+910,"Bee-eater, white-fronted",Merops bullockoides,69.9
+911,Secretary bird,Sagittarius serpentarius,5.1
+912,Long-nosed bandicoot,Perameles nasuta,57.0
+913,"Vulture, black",Aegypius tracheliotus,32.1
+914,"Swan, trumpeter",Cygnus buccinator,57.0
+915,"Goose, egyptian",Alopochen aegyptiacus,40.4
+916,"Cat, jungle",Felis chaus,68.1
+917,North American red fox,Vulpes vulpes,53.5
+918,Common turkey,Meleagris gallopavo,65.8
+919,White-tailed deer,Odocoilenaus virginianus,60.8
+920,"Hawk, galapagos",Buteo galapagoensis,51.4
+921,Red-billed tropic bird,Phaethon aethereus,55.1
+922,"Cormorant, flightless",Nannopterum harrisi,26.8
+923,Coke's hartebeest,Alcelaphus buselaphus cokii,4.9
+924,Gerenuk,Litrocranius walleri,18.5
+925,Curve-billed thrasher,Toxostoma curvirostre,18.3
+926,"Gull, kelp",Larus dominicanus,25.6
+927,"Spider, wolf",Lycosa godeffroyi,29.1
+928,Golden-mantled ground squirrel,Spermophilus lateralis,22.7
+929,"Hawk, red-tailed",Buteo jamaicensis,51.1
+930,Marine iguana,Amblyrhynchus cristatus,1.2
+931,Bare-faced go away bird,Lorythaixoides concolor,27.9
+932,Chital,Axis axis,21.8
+933,Kelp gull,Larus dominicanus,36.2
+934,"Dove, ring",Columba palumbus,68.0
+935,Purple moorhen,Porphyrio porphyrio,35.8
+936,"Eland, common",Taurotagus oryx,14.9
+937,"Fox, silver-backed",Vulpes chama,56.3
+938,Small Indian mongoose,Herpestes javanicus,7.0
+939,Ocelot,Felis pardalis,37.9
+940,Greylag goose,Anser anser,24.9
+941,Masked booby,Sula dactylatra,24.0
+942,"Lion, mountain",Felis concolor,4.9
+943,"Crane, wattled",Bugeranus caruncalatus,55.8
+944,"Albatross, waved",Diomedea irrorata,4.4
+945,Brown pelican,Pelecanus occidentalis,34.6
+946,Coyote,Canis latrans,25.8
+947,Arctic ground squirrel,Spermophilus parryii,8.6
+948,American crow,Corvus brachyrhynchos,17.9
+949,"Bustard, stanley",Neotis denhami,54.1
+950,Sidewinder,Crotalus cerastes,38.9
+951,Bohor reedbuck,Redunca redunca,41.6
+952,"Goose, greylag",Anser anser,42.4
+953,Brown antechinus,Antechinus flavipes,64.8
+954,White-throated toucan,Ramphastos tucanus,28.8
+955,"Heron, green",Butorides striatus,30.9
+956,"Salmon, sockeye",Oncorhynchus nerka,67.1
+957,North American porcupine,Erethizon dorsatum,15.0
+958,Eastern fox squirrel,Sciurus niger,8.7
+959,Dromedary camel,Camelus dromedarius,9.1
+960,Thomson's gazelle,Gazella thompsonii,16.6
+961,Blue shark,Prionace glauca,51.6
+962,"Gnu, brindled",Connochaetus taurinus,58.0
+963,"Cobra, cape",Naja nivea,67.1
+964,Galah,Eolophus roseicapillus,39.7
+965,Galapagos tortoise,Geochelone elephantopus,1.1
+966,Puna ibis,Plegadis ridgwayi,46.0
+967,"Ibis, sacred",Threskionis aethiopicus,34.4
+968,Australian masked owl,Tyto novaehollandiae,25.2
+969,Gemsbok,Oryx gazella,55.2
+970,"Lion, california sea",Zalophus californicus,22.1
+971,Mexican boa,Boa constrictor mexicana,43.4
+972,"Sheep, american bighorn",Ovis canadensis,68.8
+973,Chilean flamingo,Phoenicopterus chilensis,48.9
+974,"Cormorant, king",Phalacrocorax albiventer,10.3
+975,"Barbet, black-collared",Lybius torquatus,22.9
+976,"Parakeet, rose-ringed",Psittacula krameri,15.3
+977,Manatee,Trichechus inunguis,34.7
+978,"Hartebeest, coke's",Alcelaphus buselaphus cokii,5.0
+979,"Parrot, hawk-headed",Deroptyus accipitrinus,20.3
+980,Ovenbird,Seiurus aurocapillus,38.1
+981,"Sparrow, rufous-collared",Zonotrichia capensis,55.6
+982,Australian masked owl,Tyto novaehollandiae,65.5
+983,"Ass, asiatic wild",Equus hemionus,55.7
+984,"Hornbill, red-billed",Tockus erythrorhyncus,44.8
+985,"Spoonbill, european",Platalea leucordia,53.3
+986,Mandras tree shrew,Anathana ellioti,69.7
+987,"Dragon, western bearded",Amphibolurus barbatus,7.9
+988,"Mockingbird, galapagos",Nesomimus trifasciatus,41.8
+989,"Barbet, black-collared",Lybius torquatus,36.0
+990,Red-legged pademelon,Thylogale stigmatica,8.6
+991,"Rhea, common",Rhea americana,25.2
+992,Four-horned antelope,Tetracerus quadricornis,27.7
+993,"Duck, comb",Sarkidornis melanotos,17.6
+994,American Virginia opossum,Didelphis virginiana,5.2
+995,Cobra (unidentified),Naja sp.,34.5
+996,"Tarantula, salmon pink bird eater",Lasiodora parahybana,12.9
+997,South American puma,Felis concolor,50.4
+998,Bontebok,Damaliscus dorcas,37.8
+999,"Langur, hanuman",Semnopithecus entellus,13.8
+1000,"Anteater, giant",Myrmecophaga tridactyla,22.2
