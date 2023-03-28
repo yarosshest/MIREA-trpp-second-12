@@ -1,3 +1,5 @@
 micronaut:
   application:
     name: trpp
+  server:
+    port: 8085
